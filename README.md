@@ -8,8 +8,9 @@ This app is not completed but has limited functionality that works.
 
 ### Features
 - User login and registration with Firebase authentication
+- Login and Registration form validation
 - Read/Write documents (notes) from/to Firetore
-- Search among documents
+- Search functionality
 
 ## Screenshots
 
