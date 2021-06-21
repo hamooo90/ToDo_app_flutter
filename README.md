@@ -13,7 +13,7 @@ This app is not completed but has limited functionality that works.
 
 ## Screenshots
 
-<img src="/Preview.jpg"/>
+<img src="/preview.jpg"/>
 
 
 
