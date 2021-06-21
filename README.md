@@ -7,9 +7,9 @@ This is a project that I did to understand how Flutter works and how to use Fire
 This app is not completed but has limited functionality that works.
 
 ### Features
-    - User login and registration with Firebase authentication
-    - Read/Write documents (notes) from/to Firetore
-    - Search among documents
+- User login and registration with Firebase authentication
+- Read/Write documents (notes) from/to Firetore
+- Search among documents
 
 ## Screenshots
 
