@@ -1,6 +1,6 @@
 
 # Yaddasht-Flutter
-A simple note taking app that is written in Flutter and uses Firebase 
+A simple todo app that is written in Flutter and uses Firebase as back end
 
 ## Description 
 This is a project that I did to understand how Flutter works and how to use Firebase Firestore as a database for my future apps.
