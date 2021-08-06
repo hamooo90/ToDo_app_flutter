@@ -14,18 +14,18 @@ class _TestState extends State<Test> {
     return Scaffold(
       body: StreamBuilder<List<UserNotes>>(
         stream: DatabaseService(uid: 'lReeUewIpaZ008rQ9yFXKt467FA3').notes,
-        builder: (context,snapshot){
-          if(snapshot.hasData){
+        builder: (context, snapshot) {
+          if (snapshot.hasData) {
             List<UserNotes> notesList = snapshot.data;
             print(notesList.length);
             // return Text('yes');
             return ListView.builder(
               itemCount: notesList.length,
-              itemBuilder: (context,index){
+              itemBuilder: (context, index) {
                 return Text(notesList[index].text);
               },
             );
-          }else{
+          } else {
             return Text('no');
           }
         },
